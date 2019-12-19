@@ -5,6 +5,6 @@ class Dog
   
   def initialize
     binding.pry  
-    @@all << self 
+    #@@all << self 
   end 
 end 
